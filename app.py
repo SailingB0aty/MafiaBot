@@ -5,7 +5,7 @@ from shared_lists import crimes, mafia_players, mafia_game
 import shared_lists
 from mafia import Mafia
 
-TOKEN = "Njk4NjYwMzI5MjAyMzg1MDM5.XpJMAA.A7bOzdmdrsKjZQ5f8yppW-6bcxY"
+TOKEN = "YOUR_TOKEN_HERE"
 client = commands.Bot(command_prefix=">")
 mafia_initialized = False
 
