@@ -1,8 +1,8 @@
 import discord
 from tinytag import TinyTag
 
-execute = "C:/ffmpeg-20200315-c467328-win64-static/bin/ffmpeg.exe"
-directory = "C:/Users/Stephen/PycharmProjects/MafiaBot/data/"
+execute = "DIRECTORY_TO_ffmpeg.exe"
+directory = "data/"
 crimes = []
 mafia_players = []
 mafia_game = []
