@@ -297,19 +297,19 @@ class Mafia:
                            "bullying small children", "sunbathing on the beach", "laying in bed",
                            "grinding on RuneScape", "coding another shitty discord bot",
                            "listening to their favorite tunes", "just waking up form a deep slumber",
-                           "snorting crack", "cutting his toenails on his bed", "looking at furry porn",
+                           "cutting his toenails on his bed",
                            "eating marmite on toast", "playing JackBox with their friends", "sat on a porta-loo"]
         where_maf_came = ["snuck up from behind", "dug a hole up through the floor", "was waiting in a nearby tree",
                           "air dropped down", "ran towards them"]
         what_maf_did = ["smacked them", "destroyed them", "crushed them", "chopped them up"]
-        what_with = ["blunt object", "machete", "bomb", "large dildo", "shovel", "hammer",
+        what_with = ["blunt object", "machete", "bomb", "large umbrella", "shovel", "hammer",
                      "refreshing glass of cool aid", "rather sharp pencil"]
-        surgical_procedure = ["colonoscopy", "breast biopsy", "cholecystectomy", "skin graft", "mastectomy",
+        surgical_procedure = ["colonoscopy", "brain biopsy", "cholecystectomy", "skin graft", "appendicectomy",
                               "partial colectomy"]
         bread_did = ["bestowed the gift of bread upon", "bread slapped", "gave a whole baguette to", "threw a crusty white bloomer at",
                      "made a bread sandwich for", "threw a bag of strong white bread flour"]
-        doctor_doing = ["'self medicating'", "on a five day meth binge", "popping their own pimples",
-                        "cutting their toenails", "extracting a lightbulb from their anus"]
+        doctor_doing = ["'self medicating'", "on a five day cola binge", "popping their own pimples",
+                        "cutting their toenails", "extracting a lightbulb from their behind"]
 
 
         one = what_they_doing[random.randint(0, len(what_they_doing) - 1)]
